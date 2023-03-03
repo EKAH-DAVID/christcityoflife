@@ -1016,6 +1016,11 @@ hr{
                     margin-top: 4%;
                     margin-left: 30%;
                 }
+
+                .WWRH{
+                    margin-top: 5rem;
+                    margin-bottom: 3rem;
+                }
 }
 
 
@@ -1046,4 +1051,67 @@ hr{
 
 
 
+}
+
+@media(max-width:379px){
+            #btn2 {
+                    margin-left: 30% !important;
+                }
+
+            .banner-img img{
+            width: 35%;
+            margin-left: 32%;
+        }
+
+                .pp p{
+            font-size: 3rem;
+        }
+
+
+                .category .box-container .box .btn {
+                        position: absolute;
+                            margin-top: 35% !important;
+                            margin-left: -37.1%;
+                    
+                }
+
+                .category .box-container .box {
+                    padding-bottom: 25%;
+                }
+
+
+                        .container .contactInfo .box .icon{
+                            font-size: 20px;
+                        }
+
+                        .container .contactInfo .box .text{
+                            font-size: 13px;
+                        }
+
+                        .container .contactInfo .box .text h3{
+                            font-size: 15px;
+                        }
+
+                        /*about us */
+                        #ppp{
+                            font-size: 18px;
+                        }
+                        
+                        /*ourbeliefs*/
+                        .pp5{
+                            font-size: 27px !important;
+
+                        }
+
+                        .pp4{
+                            font-size: 16px !important;
+                        }
+ /*header*/
+        .header-1 a{
+        font-size: 3.1rem ;
+    }
+
+        .header-1 p{
+            margin-top: 20px;
+        }
 }
