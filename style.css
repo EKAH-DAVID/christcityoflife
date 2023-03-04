@@ -115,12 +115,12 @@ html{
 /*ends*/
 
 .header-2 .navbar{
-    margin-left: 60% !important;
+    margin-left: 46% !important;
 }
 
 .header-2 .navbar a{
     padding: .5rem 1.5rem;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     border-radius: .5rem;
     color: white;
     text-decoration: none;
@@ -252,7 +252,7 @@ transition: 0.4s !important;
 }
 
 .bannerr11 {
-    background-image: url(./images/c13.jpg);
+    background-image: url(./images/c13.jpg); 
     background-position: center;
     background-size: cover;
     padding-top: 15rem;
@@ -852,7 +852,7 @@ hr{
 .footer .box-container .box .links a{
     display: block;
     padding: .5rem 0;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     color: #ffffff;
     text-decoration: none;
 }
@@ -1021,6 +1021,9 @@ hr{
                     margin-top: 5rem;
                     margin-bottom: 3rem;
                 }
+
+
+
 }
 
 
@@ -1131,7 +1134,7 @@ hr{
 
 @media(max-width:1450px){
     .container .contactInfo {
-        margin-left: -18%;
+        margin-left: -7%;
     }
 
     .header-2 .navbar a{
