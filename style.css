@@ -1114,4 +1114,9 @@ hr{
         .header-1 p{
             margin-top: 20px;
         }
+    
+            /*who we are*/
+        .box-container .box img {
+            height: 60%; 
+        }
 }
